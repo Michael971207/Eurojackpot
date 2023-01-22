@@ -18,7 +18,7 @@ HTML
 CSS
 JavaScript
 Authors
-Your Name - Initial work
+Abdullah Michael Moulay - Initial work
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
